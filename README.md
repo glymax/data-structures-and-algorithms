@@ -1,8 +1,8 @@
 # Data Structures and Algorithms (Java)
 
-Collection of classic data structures implemented in Java.
+Collection of classic data structures and algorithms implemented in Java.
 
-Contents
+## Contents
 
 - AVL Tree
 - Binary search
@@ -13,5 +13,7 @@ Contents
 - Radixsort
 
 more coming soon...
+
+---
 
 These implementations were created during computer science studies at TUM.
